@@ -1,0 +1,107 @@
+2020-04-28 21:04:247 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:224 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:555 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:129 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:732 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:304 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (c1108bbb4076b0678fff2888859552ee)] -> id: header-sign-up-btn]
+2020-04-28 21:04:396 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (c1108bbb4076b0678fff2888859552ee)] -> id: user_email]
+2020-04-28 21:04:725 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (c1108bbb4076b0678fff2888859552ee)] -> id: user_email]
+2020-04-28 21:04:747 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (c1108bbb4076b0678fff2888859552ee)] -> name: commit]
+2020-04-28 21:04:608 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-28 21:04:799 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (d88fbb2a81d8ce4f738cef0c2574fa76)] -> id: header-sign-up-btn]
+2020-04-28 21:04:586 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (d88fbb2a81d8ce4f738cef0c2574fa76)] -> id: user_email]
+2020-04-28 21:04:824 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (d88fbb2a81d8ce4f738cef0c2574fa76)] -> id: user_email]
+2020-04-28 21:04:973 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (d88fbb2a81d8ce4f738cef0c2574fa76)] -> name: commit]
+2020-04-29 11:04:668 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 11:04:796 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (9c6d7d8852536262c3a3e2d0bd1ab538)] -> id: header-sign-up-btn]
+2020-04-29 11:04:129 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (9c6d7d8852536262c3a3e2d0bd1ab538)] -> id: user_email]
+2020-04-29 11:04:306 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (9c6d7d8852536262c3a3e2d0bd1ab538)] -> id: user_email]
+2020-04-29 11:04:42 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (9c6d7d8852536262c3a3e2d0bd1ab538)] -> name: commit]
+2020-04-29 11:04:442 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 11:04:46 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (b829a17057222429c56f849592fdd0b0)] -> id: header-sign-up-btn]
+2020-04-29 11:04:626 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (b829a17057222429c56f849592fdd0b0)] -> id: user_email]
+2020-04-29 11:04:788 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (b829a17057222429c56f849592fdd0b0)] -> id: user_email]
+2020-04-29 11:04:818 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (b829a17057222429c56f849592fdd0b0)] -> name: commit]
+2020-04-29 11:04:377 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 11:04:684 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (ca97d61744cddb0913624e0e891a9cdf)] -> id: header-sign-up-btn]
+2020-04-29 11:04:207 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (ca97d61744cddb0913624e0e891a9cdf)] -> id: user_email]
+2020-04-29 11:04:473 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (ca97d61744cddb0913624e0e891a9cdf)] -> id: user_email]
+2020-04-29 11:04:872 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (ca97d61744cddb0913624e0e891a9cdf)] -> name: commit]
+2020-04-29 11:04:641 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 11:04:637 INFO  LoginPage :37 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (4e0f4ba04c90e9f03d968cf8721375ea)] -> id: header-sign-up-btn]
+2020-04-29 11:04:708 INFO  LoginPage :43 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (4e0f4ba04c90e9f03d968cf8721375ea)] -> id: user_email]
+2020-04-29 11:04:886 INFO  LoginPage :49 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (4e0f4ba04c90e9f03d968cf8721375ea)] -> id: user_email]
+2020-04-29 11:04:529 INFO  LoginPage :55 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (4e0f4ba04c90e9f03d968cf8721375ea)] -> name: commit]
+2020-04-29 11:04:181 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 11:04:47 INFO  LoginPage :44 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (da2545eab3b12e80c32e0d616f081da6)] -> id: header-sign-up-btn]
+2020-04-29 11:04:762 INFO  LoginPage :50 - set Email Field :lameethev2@gmail.comto email field :[[ChromeDriver: chrome on WINDOWS (da2545eab3b12e80c32e0d616f081da6)] -> id: user_email]
+2020-04-29 11:04:942 INFO  LoginPage :56 - set Password Field :lamee1988to email field :[[ChromeDriver: chrome on WINDOWS (da2545eab3b12e80c32e0d616f081da6)] -> id: user_email]
+2020-04-29 11:04:793 INFO  LoginPage :62 - set Click On LoginButton :[[ChromeDriver: chrome on WINDOWS (da2545eab3b12e80c32e0d616f081da6)] -> name: commit]
+2020-04-29 12:04:401 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 12:04:77 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 12:04:682 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 12:04:145 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:671 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:540 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (6cea1eba01075eb796ee97de0314d6b6)] -> xpath: //html//body]
+2020-04-29 13:04:932 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:951 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:745 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:14 INFO  LoginPage :49 - enter the email address :lameethev@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:184 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:338 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:495 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (40389b9d522dbd995bfb539674be3463)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:270 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:972 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:227 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:555 INFO  LoginPage :49 - enter the email address :lameethev@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:759 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:888 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:998 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (9cfbc8a171491f4813395825cc9a0f51)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:691 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:427 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:797 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:107 INFO  LoginPage :49 - enter the email address :lameethev@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:303 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:466 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:631 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (c250197f7865a2f96c347cc1fd879271)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:530 INFO  LoginPage :72 - click on save changes:Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 13:04:866 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:597 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:601 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:848 INFO  LoginPage :49 - enter the email address :lameethev@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:49 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:195 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:316 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:390 INFO  LoginPage :72 - click on save changes:[[ChromeDriver: chrome on WINDOWS (64c0027bbdbacae5e304765d4f415a9a)] -> xpath: //input[@name='commit']]
+2020-04-29 13:04:630 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:142 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:177 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:377 INFO  LoginPage :49 - enter the email address :lameethev@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:574 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:715 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:827 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:887 INFO  LoginPage :72 - click on save changes:[[ChromeDriver: chrome on WINDOWS (d7890f384f1fa61fe484753e29f87d14)] -> xpath: //input[@name='commit']]
+2020-04-29 13:04:506 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:709 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:728 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:101 INFO  LoginPage :49 - enter the email address :lameethev3@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:339 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:505 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:627 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (22c7c4e2be0c95acafa0b5de78354cbb)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:576 INFO  LoginPage :72 - click on save changes:Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 13:04:804 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 13:04:964 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 13:04:736 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //input[@id='user_name']]
+2020-04-29 13:04:25 INFO  LoginPage :49 - enter the email address :lameethev5@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //input[@id='user_email']]
+2020-04-29 13:04:253 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //input[@id='user_password']]
+2020-04-29 13:04:461 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 13:04:612 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (ecdeadc061ebaf81ceeb3affa3f991f8)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 13:04:23 INFO  LoginPage :72 - click on save changes:Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 16:04:329 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 16:04:849 INFO  LoginPage :37 - set to edit profile :[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //a[@id='header-sign-up-btn']]
+2020-04-29 16:04:235 INFO  LoginPage :43 - enter the full name :Lameertha Thevarajahto full name field :[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //input[@id='user_name']]
+2020-04-29 16:04:582 INFO  LoginPage :49 - enter the email address :lameethev7@yahoo.co.ukto email field :[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //input[@id='user_email']]
+2020-04-29 16:04:776 INFO  LoginPage :55 - enter the password :Lamee@1988to password filed :[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //input[@id='user_password']]
+2020-04-29 16:04:938 INFO  LoginPage :60 - enter the confirm password :Lamee@1988to confirm password field:[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 16:04:115 INFO  LoginPage :66 - click on notify button :[[ChromeDriver: chrome on WINDOWS (8babbd4865a67196647963eaec42c266)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 16:04:124 INFO  LoginPage :72 - click on save changes:Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'

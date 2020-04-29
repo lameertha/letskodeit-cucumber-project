@@ -1,0 +1,115 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 20519828800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "User should Edit Profile successfully",
+        "description": "",
+        "id": "signup-profile-functionality;user-should-edit-profile-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 823790000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1052582300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on login page",
+            "match": {
+              "location": "SingUpStepdefs.iAmOnLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 535829400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on sing Up Page",
+            "match": {
+              "location": "SingUpStepdefs.iClickOnSingUpPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12082273300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I  enter the below credentials",
+            "match": {
+              "location": "SingUpStepdefs.iEnterTheBelowCredentials(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Lameertha Thevarajah",
+                  "lameethev7@yahoo.co.uk",
+                  "Lamee@1988",
+                  "Lamee@1988"
+                ],
+                "line": 7
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 175664800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on set teams button",
+            "match": {
+              "location": "SingUpStepdefs.iClickOnSetTeamsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36005866400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on signUp Button",
+            "match": {
+              "location": "SingUpStepdefs.iClickOnSignUpButton()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "SignUp Profile functionality",
+    "description": "As a user I want to SignUp Profile successfully in letskodit",
+    "id": "signup-profile-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/learn/letskodeit/resources/featurefile/login.feature"
+  }
+]
